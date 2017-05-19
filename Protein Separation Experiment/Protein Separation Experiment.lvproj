@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Apparatus.PNG" Type="Document" URL="../Apparatus.PNG"/>
+		<Item Name="CSV Formatter.vi" Type="VI" URL="../CSV Formatter.vi"/>
 		<Item Name="Data Loop.vi" Type="VI" URL="../Data Loop.vi"/>
 		<Item Name="Experiment Diagram.vi" Type="VI" URL="../Experiment Diagram.vi"/>
 		<Item Name="Export Experiment Data.vi" Type="VI" URL="../Export Experiment Data.vi"/>
