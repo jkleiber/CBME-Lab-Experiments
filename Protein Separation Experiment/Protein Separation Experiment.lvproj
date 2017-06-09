@@ -10,13 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Apparatus.PNG" Type="Document" URL="../Apparatus.PNG"/>
-		<Item Name="CSV Formatter.vi" Type="VI" URL="../CSV Formatter.vi"/>
-		<Item Name="DAQ Setup.vi" Type="VI" URL="../DAQ Setup.vi"/>
-		<Item Name="Data Loop.vi" Type="VI" URL="../Data Loop.vi"/>
-		<Item Name="Experiment Diagram.vi" Type="VI" URL="../Experiment Diagram.vi"/>
-		<Item Name="Export Experiment Data.vi" Type="VI" URL="../Export Experiment Data.vi"/>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Protein Separation Experiment" Type="Folder" URL="..">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
