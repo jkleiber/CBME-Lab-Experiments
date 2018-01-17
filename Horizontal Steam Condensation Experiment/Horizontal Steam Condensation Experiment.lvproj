@@ -13,7 +13,6 @@
 		<Item Name="Horizontal Steam Condensation Experiment" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Range Conversion.vi" Type="VI" URL="../../Vertical Steam Condensation Experiment/Range Conversion.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
